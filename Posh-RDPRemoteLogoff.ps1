@@ -20,7 +20,7 @@
 #>
 
 # Variables for remote query
-$server = "172.16.1.14"
+$server = "192.168.1.2"
 $user = $env:USERNAME # Current logged on user
 
 # Get the session# for the current logged on user
